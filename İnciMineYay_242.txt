@@ -1,0 +1,11 @@
+﻿EE242 2023 Spring MT - İnci Mine Yay
+
+Question1
+
+ascii name (inci!mine) : 105+110+99+105+33+109+105+110+101 = 877
+ascii surname (yay) : 339
+ascii total : 1216
+timer number : 3
+arr number : 65535
+duration : 10170
+led pin number : 12
